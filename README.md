@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ivo
-- 👀 I’m interested in video games development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ovinedev@abv.bg / legodaski123@gmail.com
 
 <!---
